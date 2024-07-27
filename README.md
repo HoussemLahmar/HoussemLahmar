@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Houssem-Eddine Lahmar
 
-<!--
-**HoussemLahmar/HoussemLahmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical Engineering Student** at the National Engineering School of Tunis (ENIT). Passionate about embedded systems, IoT, and technological innovation, I am constantly seeking new opportunities to apply and expand my skills.
 
-Here are some ideas to get you started:
+## 💼 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Intern at Wattnow** (February 2024 - April 2024)
+  - Created a RT Circular buffer to log in errors to send them later via uart.
+  - **Skills acquired:** Embedded C, IoT, STM32
+
+- **Intern at C4I Tunisia** (July 2023)
+  - Worked on setting up an Azure IoT lab environment.
+  - **Skills acquired:** Cloud Computing, IoT, Azure IoT
+
+## 🛠 Projects
+
+- **Graphical Interface for Quadcopter Drone Control** (September 2023 - Present)
+  - Developed an interface for modeling, controlling, and regulating a drone under the supervision of Mr. Joseph Haggège.
+
+- **Design and Implementation of an Electronic Board** (February 2023 - May 2023)
+  - Project completed as part of a mini electronic project at ENIT.
+
+- **Flight Reservation Management Program** (November 2022 - December 2022)
+  - Developed a program for managing flight reservations as part of a mini programming project.
+
+## 🎓 Education
+
+- **Electrical Engineering Student** at the National Engineering School of Tunis (September 2022 – Present)
+- **Preparatory Cycle for Engineering Studies, Math-Physics** at IPEIN (September 2020 – June 2022)
+
+## 📜 Certifications
+
+- **Disaster Management Officer and Trainer** - Tunisian Red Crescent
+- **Sports First Aid** - Tunisian Red Crescent
+- **Embedded Software and Hardware Architecture** - Coursera
+- **Understanding Machine Learning** - DataCamp
+- **Computer Hardware Basics** - Cisco
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python, Assembly, C, C++, Embedded C
+- **Tools and Platforms:** STM32, Arduino, ESP32, Raspberry Pi, Embedded Linux, Eagle PCB, Microsoft Access, Excel, Matlab, PSIM, PSPICE, Adobe Softwares, STM8, ST Assembler, Linker, Code Blocks, Git, VS Code
+
+## 🌍 Languages
+
+- **Arabic**: ○ ○ ○ ○ ○
+- **French**: ○ ○ ○ ○ ○
+- **English**: ○ ○ ○ ○ ○
+- **German**: ○ ○ ○ ○ ○
+
+## 🤝 Volunteering and Engagements
+
+- **Media Manager** at ENIT Voice (September 2023)
+- **Secretary General** at IEEE ENIT SB - Robotics and Automation Society Chapter (June 2023 – February 2024)
+- **Health Officer** at Tunisian Red Crescent, Local Committee of Béni Khalled (August 2023 – January 2024)
+- 
+## 📫 Contact
+
+- **Email:** [Houssemeddine.lahmar@etudiant-enit.utm.tn](mailto:Houssemeddine.lahmar@etudiant-enit.utm.tn)
+- **Email:** [Houssemeddine.lahmer@outlook.com](mailto:Houssemeddine.lahmer@outlook.com)
+- **LinkedIn:** [Houssem-eddine Lahmer](https://linkedin.com/in/Houssem-eddine Lahmer)
