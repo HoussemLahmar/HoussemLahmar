@@ -25,7 +25,7 @@ Electrical Engineering Student at the National Engineering School of Tunis (ENIT
 ### 💻 Projects
 
 - **Graphical Interface for Quadcopter Drone Control** (September 2023 - Present)
-  - Developed an interface for modeling, controlling, and regulating a drone under the supervision of Mr. Joseph Haggège.
+  - Developed an interface for modeling, controlling, and regulating a drone.
 - **Design and Implementation of an Electronic Board** (February 2023 - May 2023)
   - Project completed as part of a mini electronic project at ENIT.
 - **Flight Reservation Management Program** (November 2022 - December 2022)
