@@ -12,9 +12,6 @@
   - Worked on setting up an Azure IoT lab environment.
   - **Skills acquired:** Cloud Computing, IoT, Azure IoT
 
-- **Intern at 3D Smart Factory** (Edge Computing, IoT, FPGA)
-  - Worked on integrating edge computing solutions and IoT with FPGA.
-
 - **Intern at Prodigy InfoTech**
   - Developed projects using C programming language.
 
