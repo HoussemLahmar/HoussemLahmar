@@ -122,5 +122,5 @@ struct EmbeddedTech {
 I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my GitHub profile.
 
 ## 📬 Contact
-Email: Houssemeddine.lahmar@etudiant-enit.utm.tn | Houssemeddine.lahmer@outlook.com
-LinkedIn: Houssem-eddine Lahmer
+- **Email:** Houssemeddine.lahmar@etudiant-enit.utm.tn | Houssemeddine.lahmer@outlook.com
+- **LinkedIn:** [Houssem-eddine Lahmer](https://www.linkedin.com/in/houssem-eddine-lahmer-681864203/)
