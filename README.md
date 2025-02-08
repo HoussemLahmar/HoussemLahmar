@@ -25,7 +25,7 @@ I'm an electrical engineering student with a strong passion for embedded systems
 ## 🧑‍🏫 Teaching Experience
 
 - **Instructor at Digimytch**  
-  - Teaching **C/C++**, **Python**, **Matlab**, **LaTeX**, and **Version Control**.  
+  - Teaching **C/C++**, **Python**, **MATLAB**, **LaTeX**, and **Version Control**.  
   - Empowering the next generation of developers and engineers with hands-on, practical training.
 
 ## 📚 Education
@@ -36,7 +36,7 @@ I'm an electrical engineering student with a strong passion for embedded systems
 ## 🛠 Skills
 
 - **Programming Languages:** Python, Assembly, C, C++, Embedded C
-- **Tools and Platforms:** STM32, Arduino, ESP32, Raspberry Pi, Embedded Linux, Eagle PCB, Microsoft Access, Excel, Matlab, PSIM, PSPICE, Adobe Softwares, STM8, ST Assembler, Linker, Code Blocks, Git, VS Code
+- **Tools and Platforms:** STM32, Arduino, ESP32, Raspberry Pi, Embedded Linux, Eagle PCB, Microsoft Access, Excel, MATLAB, PSIM, PSPICE, Adobe Softwares, STM8, ST Assembler, Linker, Code Blocks, Git, VS Code
 
 ## 💻 Projects
 
@@ -67,35 +67,55 @@ I'm an electrical engineering student with a strong passion for embedded systems
 - **C Projects** ([GitHub](https://github.com/HoussemLahmar/C_Projects))  
   - Various projects using the C programming language.
 
-## 📜 Certifications
+## 🏆 Achievements & Recognition
 
-- Disaster Management Officer and Trainer - Tunisian Red Crescent
-- Sports First Aid - Tunisian Red Crescent
-- Embedded Software and Hardware Architecture - Coursera
-- Understanding Machine Learning - DataCamp
-- Computer Hardware Basics - Cisco
+### Languages & Tools (Graphical)
 
-## 🌍 Languages
+<!-- Displaying logos with shields.io badges -->
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-007ACC?style=for-the-badge&logo=matlab&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-007ACC?style=for-the-badge&logo=stm32&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-007ACC?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-EE3C21?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
-- **Arabic:** Fluent
-- **French:** Fluent
-- **English:** Fluent
-- **German:** Fluent
+### Notable Recognitions
 
-## 📊 GitHub Statistics
+- **Disaster Management Officer & Trainer** – Tunisian Red Crescent
+- **Sports First Aid Certification** – Tunisian Red Crescent
+- **Embedded Software and Hardware Architecture Certification** – Coursera
+- **Understanding Machine Learning** – DataCamp
+- **Computer Hardware Basics Certification** – Cisco
 
+## 💻 Tech Stack & Tools
+
+```c
+// Embedded Tech Stack Overview
+struct EmbeddedTech {
+    char *role = "Embedded Developer | IoT Specialist";
+    char *motto = "Engineering innovation one microcontroller at a time!";
+    char *code[] = {"C", "C++", "Python", "MATLAB", "LaTeX"};
+    struct {
+        char *firmware[] = {"STM32", "Arduino", "ESP32", "Raspberry Pi"};
+        char *tools[] = {"STM32CubeIDE", "Keil", "Visual Studio Code", "Git"};
+        char *design[] = {"Eagle PCB", "PSIM", "PSPICE"};
+    } technologies;
+    char *interests[] = {"Embedded Systems", "IoT", "Automation", "Robotics"};
+    char *funFact = "In embedded systems, timing is everything!";
+};
+📊 GitHub Statistics
 <!-- Dynamic GitHub Stats -->
-[![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemLahmar&show_icons=true&theme=radical)](https://github.com/HoussemLahmar)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemLahmar&theme=radical&layout=compact)](https://github.com/HoussemLahmar)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoussemLahmar&theme=radical)](https://github.com/HoussemLahmar)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 🤝 Collaborations & Community
+🔥 GitHub Activity
 
-I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my [GitHub profile](https://github.com/HoussemLahmar).
+🤝 Collaborations & Community
+I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my GitHub profile.
 
-## 📬 Contact
-
-- **Email:** [Houssemeddine.lahmar@etudiant-enit.utm.tn](mailto:Houssemeddine.lahmar@etudiant-enit.utm.tn) | [Houssemeddine.lahmer@outlook.com](mailto:Houssemeddine.lahmer@outlook.com)
-- **LinkedIn:** [Houssem-eddine Lahmer](https://linkedin.com/in/Houssem-eddine%20Lahmer)
+📬 Contact
+Email: Houssemeddine.lahmar@etudiant-enit.utm.tn | Houssemeddine.lahmer@outlook.com
+LinkedIn: Houssem-eddine Lahmer
