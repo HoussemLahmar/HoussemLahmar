@@ -118,10 +118,6 @@ struct EmbeddedTech {
 
 
 
-## 🔥 GitHub Activity
-
-[![Houssem's Activity Graph](https://activity-graph.herokuapp.com/graph?username=HoussemLahmar&theme=github)](https://github.com/HoussemLahmar)
-
 ## 🤝 Collaborations & Community
 I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my GitHub profile.
 
