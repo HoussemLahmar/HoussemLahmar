@@ -67,7 +67,7 @@ I'm an electrical engineering student with a strong passion for embedded systems
 - **C Projects** ([GitHub](https://github.com/HoussemLahmar/C_Projects))  
   - Various projects using the C programming language.
 
-## 🏆 Achievements & Recognition
+# 🏆 Achievements & Recognition
 
 ### Languages & Tools (Graphical)
 
@@ -110,10 +110,17 @@ struct EmbeddedTech {
 ```
 
 ## 📊 GitHub Statistics
-<!-- Dynamic GitHub Stats -->
+
+[![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemLahmar&show_icons=true&theme=radical)](https://github.com/HoussemLahmar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemLahmar&theme=radical&layout=compact)](https://github.com/HoussemLahmar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoussemLahmar&theme=radical)](https://github.com/HoussemLahmar)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 🔥 GitHub Activity
+
+[![Houssem's Activity Graph](https://activity-graph.herokuapp.com/graph?username=HoussemLahmar&theme=github)](https://github.com/HoussemLahmar)
 
 ## 🤝 Collaborations & Community
 I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my GitHub profile.
