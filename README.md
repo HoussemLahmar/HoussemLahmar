@@ -90,9 +90,6 @@ I'm an electrical engineering student with a strong passion for embedded systems
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoussemLahmar&theme=radical)](https://github.com/HoussemLahmar)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 GitHub Activity
-
-[![Houssem's Activity Graph](https://activity-graph.herokuapp.com/graph?username=HoussemLahmar&theme=github)](https://github.com/HoussemLahmar)
 
 ## 🤝 Collaborations & Community
 
