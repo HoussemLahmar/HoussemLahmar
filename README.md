@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm an electrical engineering student with a strong passion for embedded systems and IoT. My journey spans hands-on experiences—from developing firmware for microcontrollers to setting up IoT lab environments and creating innovative software solutions. I thrive on solving complex challenges and continuously learning new technologies, while also sharing my knowledge with others.
+I'm an electrical engineering student with a strong passion for embedded systems and IoT. My journey spans hands-on experiences—from developing firmware for microcontrollers to setting up IoT lab environments and creating innovative software solutions. I thrive on solving complex challenges, continuously learning new technologies, and sharing my knowledge with others.
 
 ## 💼 Experience
 
@@ -21,6 +21,12 @@ I'm an electrical engineering student with a strong passion for embedded systems
 
 - **Intern at TechnoHacks EduTech**  
   - Worked on Python projects and taught Python programming.
+
+## 🧑‍🏫 Teaching Experience
+
+- **Instructor at Digimytch**  
+  - Teaching **C/C++**, **Python**, **Matlab**, **LaTeX**, and **Version Control**.  
+  - Empowering the next generation of developers and engineers with hands-on, practical training.
 
 ## 📚 Education
 
@@ -82,10 +88,15 @@ I'm an electrical engineering student with a strong passion for embedded systems
 [![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemLahmar&show_icons=true&theme=radical)](https://github.com/HoussemLahmar)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemLahmar&theme=radical&layout=compact)](https://github.com/HoussemLahmar)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoussemLahmar&theme=radical)](https://github.com/HoussemLahmar)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Activity
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Houssem's Activity Graph](https://activity-graph.herokuapp.com/graph?username=HoussemLahmar&theme=github)](https://github.com/HoussemLahmar)
+
+## 🤝 Collaborations & Community
+
+I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my [GitHub profile](https://github.com/HoussemLahmar).
 
 ## 📬 Contact
 
