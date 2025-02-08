@@ -107,15 +107,17 @@ struct EmbeddedTech {
     char *interests[] = {"Embedded Systems", "IoT", "Automation", "Robotics"};
     char *funFact = "In embedded systems, timing is everything!";
 };
-📊 GitHub Statistics
+```
+
+## 📊 GitHub Statistics
 <!-- Dynamic GitHub Stats -->
 
 
-🔥 GitHub Activity
+## 🔥 GitHub Activity
 
-🤝 Collaborations & Community
+## 🤝 Collaborations & Community
 I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my GitHub profile.
 
-📬 Contact
+## 📬 Contact
 Email: Houssemeddine.lahmar@etudiant-enit.utm.tn | Houssemeddine.lahmer@outlook.com
 LinkedIn: Houssem-eddine Lahmer
