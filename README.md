@@ -116,13 +116,6 @@ struct EmbeddedTech {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoussemLahmar&theme=radical)](https://github.com/HoussemLahmar)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-query {
-  user(login: "HoussemLahmar") {
-    contributionsCollection {
-      totalContributions
-    }
-  }
-}
 
 ## Mes Contributions
 
