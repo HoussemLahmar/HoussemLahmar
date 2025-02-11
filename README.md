@@ -116,7 +116,9 @@ struct EmbeddedTech {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoussemLahmar&theme=radical)](https://github.com/HoussemLahmar)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Mes Contributions
 
+![Total Contributions](https://img.shields.io/badge/Contributions-2500-brightgreen)
 
 ## 🤝 Collaborations & Community
 I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my GitHub profile.
