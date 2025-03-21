@@ -112,15 +112,19 @@ struct EmbeddedTech {
 ## 📊 GitHub Statistics
 [![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemLahmar&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/HoussemLahmar)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoussemLahmar&theme=radical&include_all_commits=true)](https://github.com/HoussemLahmar)
-[![Total Contributions](https://badges.pufler.dev/contributions/all/HoussemLahmar?style=for-the-badge&color=47A141&labelColor=000000)](https://github.com/HoussemLahmar)
-
+[![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemLahmar&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/HoussemLahmar)
+[![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoussemLahmar&theme=dark&include_all_commits=true)](https://github.com/HoussemLahmar)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemLahmar&theme=radical&layout=compact)](https://github.com/HoussemLahmar)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## Mes Contributions
+### 📈 Contribution Breakdown
+| Metric         | Count       | 
+|----------------|-------------|
+| **Total Commits**  | ![Total Commits](https://img.shields.io/github/search/HoussemLahmar/HoussemLahmar/commits?label=) | 
+| **2024 Contributions** | ![2024 Contributions](https://img.shields.io/github/contributors-anon/HoussemLahmar/HoussemLahmar?label=) |
 
-![Total Contributions](https://img.shields.io/badge/Contributions-2500-brightgreen)
+[![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=HoussemLahmar&theme=github-dark)](https://github.com/HoussemLahmar)
 
 ## 🤝 Collaborations & Community
 I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my GitHub profile.
