@@ -117,6 +117,14 @@ struct EmbeddedTech {
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoussemLahmar&theme=radical&layout=compact)](https://github.com/HoussemLahmar)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HoussemLahmar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=HoussemLahmar&theme=github-dark)](https://github.com/HoussemLahmar)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HoussemLahmar&color=blueviolet&label=Profile+Views)
+
+### 🎯 Skill Proficiency
+![Embedded C](https://img.shields.io/badge/Embedded_C-Expert-47A141?style=flat&logo=embeddedc)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python)
+![IoT](https://img.shields.io/badge/IoT-Intermediate-007ACC?logo=iot)
 
 ### 📈 Contribution Breakdown
 | Metric         | Count       | 
@@ -128,6 +136,7 @@ struct EmbeddedTech {
 
 ## 🤝 Collaborations & Community
 I actively collaborate on various projects and contribute to the open-source community. For a complete view of my work—including projects, collaborations, and contributions—check out my GitHub profile.
+[![Code Quality](https://api.codiga.io/project/XXXXX/score)](https://app.codiga.io/public/project/XXXXX/HoussemLahmar/STM32_data_logger)
 
 ## 📬 Contact
 - **Email:** Houssemeddine.lahmar@etudiant-enit.utm.tn | Houssemeddine.lahmer@outlook.com
