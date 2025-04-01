@@ -121,10 +121,6 @@ struct EmbeddedTech {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HoussemLahmar&color=blueviolet&label=Profile+Views)
 
-### 🎯 Skill Proficiency
-![Embedded C](https://img.shields.io/badge/Embedded_C-Expert-47A141?style=flat&logo=embeddedc)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python)
-![IoT](https://img.shields.io/badge/IoT-Intermediate-007ACC?logo=iot)
 
 ### 📈 Contribution Breakdown
 | Metric         | Count       | 
