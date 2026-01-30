@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Houssem-Eddine Lahmar
 
-**Electrical Engineering Student** at the National Engineering School of Tunis (ENIT), specializing in SMART (Advanced Reconfigurable Real-Time Microelectronic Systems). Passionate about embedded systems, IoT, machine learning, and technological innovation. Experienced in project and team management with practical skills in hardware and software development.
+**Electrical Engineering Student** at the National Engineering School of Tunis (ENIT), specializing in SMART (Advanced Reconfigurable Real-Time Microelectronic Systems). Passionate about embedded systems, IoT, machine learning, and technological innovation. Experienced in project management, hardware-software integration, and real-time system design.
 
 ## 🚀 About Me
 
