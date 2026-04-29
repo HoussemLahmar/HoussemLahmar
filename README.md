@@ -2,7 +2,7 @@
 
 # Houssem-Eddine Lahmar
 
-**Ingénieur en Génie Électrique · Systèmes Embarqués · IoT · Machine Learning ** 
+**Ingénieur en Génie Électrique · Systèmes Embarqués · IoT · Machine Learning** 
 
 **Electrical Engineering Student · Embedded Systems · IoT · Machine Learning**
 
