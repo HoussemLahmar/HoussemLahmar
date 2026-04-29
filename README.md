@@ -220,5 +220,6 @@ struct Houssem {
 
 *Open to collaboration on embedded systems, IoT, edge AI, and signal processing projects.*  
 **📬 houssemeddine.lahmar@etudiant-enit.utm.tn**
+**📬 houssemeddine.lahmer@outlook.com**
 
 </div>
