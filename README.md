@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Final-year Electrical Engineering student at **ENIT** (École Nationale d'Ingénieurs de Tunis), specializing in **SMART** (Systèmes Microélectroniques Avancés Reconfigurables Temps Réel), with a parallel **Master M2 SSD** (**MSc. SSD) (Signaux, Systèmes et Données) at ENT.
+Final-year Electrical Engineering student at **ENIT** (École Nationale d'Ingénieurs de Tunis), specializing in **SMART** (Systèmes Microélectroniques Avancés Reconfigurables Temps Réel), with a parallel **Master M2 SSD** (**MSc. SSD**) (Signaux, Systèmes et Données) at ENT.
 
 Currently completing my **PFE at Actia Engineering Services** on PMSM fault diagnosis (ITSC detection) using vibration & current signal fusion with machine learning.
 
