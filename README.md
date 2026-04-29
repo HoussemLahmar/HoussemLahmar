@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Final-year Electrical Engineering student at **ENIT** (École Nationale d'Ingénieurs de Tunis), specializing in **SMART** (Systèmes Microélectroniques Avancés Reconfigurables Temps Réel), with a parallel **Master M2 SSD** (Signaux, Systèmes et Données) at ENT.
+Final-year Electrical Engineering student at **ENIT** (École Nationale d'Ingénieurs de Tunis), specializing in **SMART** (Systèmes Microélectroniques Avancés Reconfigurables Temps Réel), with a parallel **Master M2 SSD** (**MSc. SSD) (Signaux, Systèmes et Données) at ENT.
 
 Currently completing my **PFE at Actia Engineering Services** on PMSM fault diagnosis (ITSC detection) using vibration & current signal fusion with machine learning.
 
@@ -80,7 +80,7 @@ struct Houssem {
 
 | Degree | Institution | Year |
 |---|---|---|
-| Engineering Degree — Electrical Eng. (SMART) + M2 SSD | ENIT / ENT | 2022 – 2026 |
+| Engineering Degree — Electrical Eng. (SMART) + MSc. SSD | ENIT  | 2022 – 2026 |
 | Prépa MP (Maths-Physique) | IPEIN — Nabeul | 2020 – 2022 |
 | Baccalauréat Mathématiques | Lycée Nahj El Menzah — Béni Khalled | 2020 |
 
