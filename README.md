@@ -4,7 +4,7 @@
 
 **Ingénieur en Génie Électrique · Systèmes Embarqués · IoT · Machine Learning** 
 
-**Electrical Engineering Student · Embedded Systems · IoT · Machine Learning**
+**Electrical Engineering · Embedded Systems · IoT · Machine Learning**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-eddine-lahmer-681864203/)
 [![ENIT Mail](https://img.shields.io/badge/ENIT_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssemeddine.lahmar@etudiant-enit.utm.tn)
