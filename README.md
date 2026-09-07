@@ -18,13 +18,17 @@
 
 ## 👋 À propos / About Me
 
-Étudiant en dernière année de **Génie Électrique** à l'**ENIT** — **École Nationale d'Ingénieurs de Tunis** *(National Engineering School of Tunis)*, spécialisation **SMART** — **Systèmes Microélectroniques Avancés Reconfigurables Temps Réel** *(Advanced Reconfigurable Real-Time Microelectronic Systems)*, en parallèle d'un **Master M2 SSD** — **Signaux, Systèmes et Données** *(MSc. SSD — Signals, Systems and Data)* à l'ENT.
+Ingénieur diplômé en **Génie Électrique** de l’**ENIT** — **École Nationale d’Ingénieurs de Tunis** *(National Engineering School of Tunis)*, spécialisé en **SMART** — **Systèmes Microélectroniques Avancés Reconfigurables Temps Réel** *(Advanced Reconfigurable Real-Time Microelectronic Systems)*, et titulaire d’un **Master M2 SSD** — **Signaux, Systèmes et Données** *(MSc. SSD — Signals, Systems and Data)* à l’ENIT.
 
-Final-year Electrical Engineering student at **ENIT** — **École Nationale d'Ingénieurs de Tunis** *(National Engineering School of Tunis)*, **SMART** specialization — **Systèmes Microélectroniques Avancés Reconfigurables Temps Réel** *(Advanced Reconfigurable Real-Time Microelectronic Systems)*, with a parallel **Master M2 SSD** — **Signaux, Systèmes et Données** *(MSc. SSD — Signals, Systems and Data)* at ENIT.
+Electrical Engineer graduated from **ENIT** — **École Nationale d’Ingénieurs de Tunis** *(National Engineering School of Tunis)*, specialized in **SMART** — **Advanced Reconfigurable Real-Time Microelectronic Systems**, and holder of an **MSc. in Signals, Systems and Data (SSD)** from ENIT.
 
-Actuellement en **PFE chez Actia Engineering Services** sur le diagnostic de défauts PMSM (détection ITSC) par fusion de signaux vibratoires et de courant avec apprentissage automatique — *Currently completing my **Final Year Project (PFE)** at Actia Engineering Services on PMSM fault diagnosis (ITSC detection) via vibration & current signal fusion with machine learning.*
+J’ai récemment achevé mon **Projet de Fin d’Études (PFE)** chez **Actia Engineering Services**, portant sur le **diagnostic de défauts des moteurs synchrones à aimants permanents (PMSM)**, notamment la **détection des défauts d’isolation entre spires (ITSC)** par fusion de signaux vibratoires et de courant et l’utilisation de techniques d’**apprentissage automatique**.
 
-Mon parcours couvre le développement firmware, les systèmes temps réel, les architectures IoT, le traitement du signal, l'IA embarquée et la robotique — toujours avec un objectif de déploiement terrain. *My work spans firmware development, real-time systems, IoT architectures, signal processing, edge AI, and robotics — always aimed at field-deployable, production-ready solutions.*
+My recent **Final Year Project (PFE)** at **Actia Engineering Services** focused on **Permanent Magnet Synchronous Motor (PMSM) fault diagnosis**, particularly **Inter-Turn Short Circuit (ITSC) detection**, through vibration and current signal fusion combined with **machine learning** techniques.
+
+Mon parcours couvre le **développement firmware**, les **systèmes embarqués et temps réel**, les **architectures IoT**, le **traitement du signal**, l’**IA embarquée** et la **robotique**, avec un intérêt particulier pour la conception de solutions **robustes, intelligentes et orientées déploiement industriel**.
+
+My background spans **firmware development**, **embedded and real-time systems**, **IoT architectures**, **signal processing**, **edge AI**, and **robotics**, with a strong interest in designing **robust, intelligent, and industry-oriented solutions**.
 
 ```c
 struct Houssem {
