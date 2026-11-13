@@ -2,9 +2,13 @@
 
 # Houssem-Eddine Lahmar
 
-**Ingénieur & Doctorant en Génie Électrique · Systèmes Embarqués · FPGA · IoT · IA (ML / DL / Transformers)**
+**Ingénieur en Génie Électrique · Titulaire du Master M2 SSD (Signaux, Systèmes et Données) · Doctorant**
 
-**Electrical Engineer & PhD Candidate · Embedded Systems · FPGA · IoT · AI (ML / DL / Transformers)**
+**Embedded Firmware Engineering (enthousiaste) · Embedded & FPGA · IoT · IA (ML / DL / Transformers)**
+
+**Electrical Engineer · MSc. in Signals, Systems and Data (SSD) · PhD Candidate**
+
+**Embedded Firmware Engineering Enthusiast · Embedded & FPGA · IoT · AI (ML / DL / Transformers)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-eddine-lahmer-681864203/)
 [![ENIT Mail](https://img.shields.io/badge/ENIT_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssemeddine.lahmar@etudiant-enit.utm.tn)
@@ -26,9 +30,9 @@ Electrical Engineer graduated from **ENIT** — **École Nationale d'Ingénieurs
 
 **PhD candidate in Electrical Engineering (Embedded Systems and Artificial Intelligence)** at the **LARA laboratory**, ENIT, working on **model–hardware co-design**: **energy-efficient FPGA accelerators for quantized Transformers** targeting edge medical devices.
 
-J'ai récemment achevé mon **Projet de Fin d'Études (PFE)** chez **Actia Engineering Services**, portant sur le **diagnostic de défauts des moteurs synchrones à aimants permanents (PMSM)**, notamment la **détection des défauts d'isolation entre spires (ITSC)** par fusion de signaux vibratoires et de courant et l'utilisation de techniques d'**apprentissage automatique**.
+J'ai récemment achevé mon **Projet de Fin d'Études (PFE)** chez **Actia Engineering Services**, portant sur le **diagnostic de défauts des moteurs synchrones à aimants permanents (PMSM)**, notamment la **détection des défauts d'isolation entre spires (ITSC)** par fusion de signaux vibratoires et de courant et l'utilisation de techniques d'**apprentissage automatique**. Ce même sujet constitue mon **mémoire de mastère de recherche M2 SSD**.
 
-My recent **Final Year Project (PFE)** at **Actia Engineering Services** focused on **Permanent Magnet Synchronous Motor (PMSM) fault diagnosis**, particularly **Inter-Turn Short Circuit (ITSC) detection**, through vibration and current signal fusion combined with **machine learning** techniques.
+My recent **Final Year Project (PFE)** at **Actia Engineering Services** focused on **Permanent Magnet Synchronous Motor (PMSM) fault diagnosis**, particularly **Inter-Turn Short Circuit (ITSC) detection**, through vibration and current signal fusion combined with **machine learning** techniques. The same topic is also my **M2 SSD research master's thesis**.
 
 Mon parcours couvre le **développement firmware**, les **systèmes embarqués et temps réel**, les **architectures IoT**, le **traitement du signal**, l'**IA embarquée** (ML, Deep Learning, Transformers, quantification) et la **robotique**, avec un intérêt particulier pour la conception de solutions **robustes, intelligentes et orientées déploiement industriel**.
 
@@ -36,7 +40,7 @@ My background spans **firmware development**, **embedded and real-time systems**
 
 ```c
 struct Houssem {
-    char *role   = "PhD Candidate | Embedded Software Engineer | FPGA & Edge AI | IoT | ML/DL";
+    char *role   = "PhD Candidate | MSc. SSD | Embedded Firmware Engineering Enthusiast | Embedded & FPGA | IoT | ML/DL";
     char *motto  = "In embedded systems, timing is everything.";
     char *code[] = {"C", "C++", "Python", "Rust", "VHDL", "Assembly", "MATLAB"};
     char *hw[]   = {"FPGA (Artix-7, Zynq)", "STM32", "ESP32", "Jetson Nano", "BeagleBone", "Raspberry Pi"};
@@ -117,8 +121,8 @@ struct Houssem {
 - Modèle analytique de performances et exploration multi-objectif (latence, énergie, ressources)
 
 ### 🔬 PFE — Actia Engineering Services *(Fév / Feb 2026 – Août / Aug 2026)*
-> Maintenance prédictive par ML appliqué aux signaux de fonctionnement PMSM
-> *ML-based predictive maintenance applied to PMSM operating signals*
+> Maintenance prédictive par ML appliqué aux signaux de fonctionnement PMSM — sujet également retenu comme **mémoire de mastère de recherche M2 SSD**
+> *ML-based predictive maintenance applied to PMSM operating signals — also the topic of my **M2 SSD research master's thesis***
 
 - **Détection de défauts ITSC** *(ITSC fault detection)* dans les moteurs PMSM triphasés par fusion courant + vibration
 - Exploitation du **dataset industriel KAIST** et banc d'essai expérimental (NI cDAQ, 100 kHz courant / 25,6 kHz vibration)
@@ -157,7 +161,7 @@ struct Houssem {
 | Diplôme / Degree | Établissement / Institution | Années / Years |
 |---|---|---|
 | **Doctorat en Génie Électrique** — Systèmes embarqués et IA *(PhD in Electrical Engineering — Embedded Systems and AI)* | **ENIT** — Laboratoire LARA, École Doctorale Sciences et Techniques de l'Ingénieur, Université Tunis El Manar | 2026 – Présent |
-| Diplôme d'Ingénieur — Génie Électrique, Spécialité **SMART** *(Systèmes Microélectroniques Avancés Reconfigurables Temps Réel / Advanced Reconfigurable Real-Time Microelectronic Systems)* + **Master M2 SSD** *(Signaux, Systèmes et Données / MSc. SSD — Signals, Systems and Data)* | **ENIT** — École Nationale d'Ingénieurs de Tunis *(National Engineering School of Tunis)* | 2022 – 2026 |
+| Diplôme d'Ingénieur — Génie Électrique, Spécialité **SMART** *(Systèmes Microélectroniques Avancés Reconfigurables Temps Réel / Advanced Reconfigurable Real-Time Microelectronic Systems)* + **Master M2 SSD** *(Signaux, Systèmes et Données / MSc. SSD — Signals, Systems and Data)* — mémoire de recherche : diagnostic de défauts ITSC des PMSM, même sujet que le PFE *(research thesis: PMSM ITSC fault diagnosis, same topic as the PFE)* | **ENIT** — École Nationale d'Ingénieurs de Tunis *(National Engineering School of Tunis)* | 2022 – 2026 |
 | Classes Préparatoires MP *(Maths-Physique / Math-Physics Preparatory Classes)* | **IPEIN** — Nabeul | 2020 – 2022 |
 | Baccalauréat Mathématiques *(Mathematics Baccalaureate)* | Lycée Nahj El Menzah — Béni Khalled | 2020 |
 
@@ -224,7 +228,7 @@ struct Houssem {
 | Projet / Project | Technologies | Description |
 |---|---|---|
 | **Accélérateurs FPGA pour Transformers quantifiés (Thèse)** *(FPGA Accelerators for Quantized Transformers — PhD)* | PyTorch, Brevitas, ONNX, Vitis HLS, hls4ml, FINN, Artix-7, Zynq | Quantification INT8/INT4, attention en flux, softmax/GELU/LayerNorm entiers, flot bit-exact PyTorch → bitstream *(in progress)* |
-| **Diagnostic de Défauts PMSM (PFE)** *(PMSM Fault Diagnosis)* | Python, MATLAB, ML, NI cDAQ | Détection ITSC par fusion courant+vibration *(ITSC detection via current+vibration fusion)*, AdaBoost/GCN, Raspberry Pi |
+| **Diagnostic de Défauts PMSM (PFE + Mémoire Master SSD)** *(PMSM Fault Diagnosis — PFE & M2 SSD thesis)* | Python, MATLAB, ML, NI cDAQ | Détection ITSC par fusion courant+vibration *(ITSC detection via current+vibration fusion)*, AdaBoost/GCN, Raspberry Pi |
 | **Modélisation & Simulation BEV** *(BEV Modelling & Simulation)* | MATLAB/Simulink, PMSM, FOC | Groupe motopropulseur complet *(full electric powertrain)*: FOC, freinage régénératif *(regenerative braking)*, BMS |
 | **Suivi de Trajectoire Drone** *(Drone Trajectory Tracking)* | ROS2, Gazebo, PX4, YOLO, Jetson Nano | Drone autonome avec détection d'objets embarquée *(embedded object detection)* — validé SITL & HITL |
 
