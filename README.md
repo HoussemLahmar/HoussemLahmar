@@ -2,9 +2,9 @@
 
 # Houssem-Eddine Lahmar
 
-**Ingénieur en Génie Électrique · Systèmes Embarqués · IoT · Machine Learning** 
+**Ingénieur & Doctorant en Génie Électrique · Systèmes Embarqués · FPGA · IoT · IA (ML / DL / Transformers)**
 
-**Electrical Engineering · Embedded Systems · IoT · Machine Learning**
+**Electrical Engineer & PhD Candidate · Embedded Systems · FPGA · IoT · AI (ML / DL / Transformers)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-eddine-lahmer-681864203/)
 [![ENIT Mail](https://img.shields.io/badge/ENIT_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssemeddine.lahmar@etudiant-enit.utm.tn)
@@ -18,29 +18,79 @@
 
 ## 👋 À propos / About Me
 
-Ingénieur diplômé en **Génie Électrique** de l’**ENIT** — **École Nationale d’Ingénieurs de Tunis** *(National Engineering School of Tunis)*, spécialisé en **SMART** — **Systèmes Microélectroniques Avancés Reconfigurables Temps Réel** *(Advanced Reconfigurable Real-Time Microelectronic Systems)*, et titulaire d’un **Master M2 SSD** — **Signaux, Systèmes et Données** *(MSc. SSD — Signals, Systems and Data)* à l’ENIT.
+Ingénieur diplômé en **Génie Électrique** de l'**ENIT** — **École Nationale d'Ingénieurs de Tunis** *(National Engineering School of Tunis)*, spécialisé en **SMART** — **Systèmes Microélectroniques Avancés Reconfigurables Temps Réel** *(Advanced Reconfigurable Real-Time Microelectronic Systems)*, et titulaire d'un **Master M2 SSD** — **Signaux, Systèmes et Données** *(MSc. SSD — Signals, Systems and Data)* à l'ENIT.
 
-Electrical Engineer graduated from **ENIT** — **École Nationale d’Ingénieurs de Tunis** *(National Engineering School of Tunis)*, specialized in **SMART** — **Advanced Reconfigurable Real-Time Microelectronic Systems**, and holder of an **MSc. in Signals, Systems and Data (SSD)** from ENIT.
+**Doctorant en Génie Électrique (Systèmes embarqués et intelligence artificielle)** au laboratoire **LARA** de l'ENIT, je travaille sur la **co-conception modèle–matériel** : des **accélérateurs FPGA économes en énergie pour Transformers quantifiés** destinés aux dispositifs médicaux embarqués.
 
-J’ai récemment achevé mon **Projet de Fin d’Études (PFE)** chez **Actia Engineering Services**, portant sur le **diagnostic de défauts des moteurs synchrones à aimants permanents (PMSM)**, notamment la **détection des défauts d’isolation entre spires (ITSC)** par fusion de signaux vibratoires et de courant et l’utilisation de techniques d’**apprentissage automatique**.
+Electrical Engineer graduated from **ENIT** — **École Nationale d'Ingénieurs de Tunis** *(National Engineering School of Tunis)*, specialized in **SMART** — **Advanced Reconfigurable Real-Time Microelectronic Systems**, and holder of an **MSc. in Signals, Systems and Data (SSD)** from ENIT.
+
+**PhD candidate in Electrical Engineering (Embedded Systems and Artificial Intelligence)** at the **LARA laboratory**, ENIT, working on **model–hardware co-design**: **energy-efficient FPGA accelerators for quantized Transformers** targeting edge medical devices.
+
+J'ai récemment achevé mon **Projet de Fin d'Études (PFE)** chez **Actia Engineering Services**, portant sur le **diagnostic de défauts des moteurs synchrones à aimants permanents (PMSM)**, notamment la **détection des défauts d'isolation entre spires (ITSC)** par fusion de signaux vibratoires et de courant et l'utilisation de techniques d'**apprentissage automatique**.
 
 My recent **Final Year Project (PFE)** at **Actia Engineering Services** focused on **Permanent Magnet Synchronous Motor (PMSM) fault diagnosis**, particularly **Inter-Turn Short Circuit (ITSC) detection**, through vibration and current signal fusion combined with **machine learning** techniques.
 
-Mon parcours couvre le **développement firmware**, les **systèmes embarqués et temps réel**, les **architectures IoT**, le **traitement du signal**, l’**IA embarquée** et la **robotique**, avec un intérêt particulier pour la conception de solutions **robustes, intelligentes et orientées déploiement industriel**.
+Mon parcours couvre le **développement firmware**, les **systèmes embarqués et temps réel**, les **architectures IoT**, le **traitement du signal**, l'**IA embarquée** (ML, Deep Learning, Transformers, quantification) et la **robotique**, avec un intérêt particulier pour la conception de solutions **robustes, intelligentes et orientées déploiement industriel**.
 
-My background spans **firmware development**, **embedded and real-time systems**, **IoT architectures**, **signal processing**, **edge AI**, and **robotics**, with a strong interest in designing **robust, intelligent, and industry-oriented solutions**.
+My background spans **firmware development**, **embedded and real-time systems**, **IoT architectures**, **signal processing**, **edge AI** (ML, Deep Learning, Transformers, quantization), and **robotics**, with a strong interest in designing **robust, intelligent, and industry-oriented solutions**.
 
 ```c
 struct Houssem {
-    char *role   = "Embedded Developer | IoT Specialist | ML Engineer";
+    char *role   = "PhD Candidate | Embedded Software Engineer | FPGA & Edge AI | IoT | ML/DL";
     char *motto  = "In embedded systems, timing is everything.";
-    char *code[] = {"C", "C++", "Python", "Rust", "VHDL", "Assembly"};
-    char *hw[]   = {"STM32", "ESP32", "Jetson Nano", "BeagleBone", "Raspberry Pi"};
+    char *code[] = {"C", "C++", "Python", "Rust", "VHDL", "Assembly", "MATLAB"};
+    char *hw[]   = {"FPGA (Artix-7, Zynq)", "STM32", "ESP32", "Jetson Nano", "BeagleBone", "Raspberry Pi"};
     char *rtos[] = {"FreeRTOS", "Linux PREEMPT-RT", "Embedded Linux"};
-    char *ai[]   = {"TensorFlow/Lite", "TinyML", "OpenCV", "YOLO", "Scikit-learn"};
-    char *focus[]= {"Embedded Systems", "IoT", "Edge AI", "Real-Time Control", "Robotics"};
+    char *ai[]   = {"PyTorch", "TensorFlow/Lite", "Transformers", "Quantization (Brevitas)", "TinyML", "OpenCV", "YOLO", "Scikit-learn"};
+    char *fpga[] = {"Vivado", "Vitis HLS", "hls4ml", "FINN", "ONNX"};
+    char *focus[]= {"Embedded Systems", "FPGA Acceleration", "Edge AI", "IoT", "Real-Time Control", "Robotics", "Biomedical Signals"};
 };
 ```
+
+---
+
+## 🔬 Doctorat / PhD
+
+| | |
+|---|---|
+| **Sujet / Topic** | *Energy-Efficient FPGA Accelerators for Quantized Transformers in Edge Medical Devices* |
+| **Titre (FR)** | *Accélérateurs FPGA économes en énergie pour Transformers quantifiés dans les dispositifs médicaux embarqués* |
+| **Spécialité / Field** | Génie Électrique — Systèmes embarqués et intelligence artificielle |
+| **Directeur de thèse / Advisor** | Prof. Joseph Haggège |
+| **Co-encadrant / Co-advisor** | Dr. Yassine Manai |
+| **Laboratoire / Lab** | LARA — Laboratoire de Recherche en Automatique, ENIT |
+| **École doctorale / Doctoral school** | Sciences et Techniques de l'Ingénieur |
+| **École / University** | ENIT — Université Tunis El Manar |
+| **Année / Year** | 2026 – 2027 (durée prévue / planned duration: 42 mois / months) |
+
+**Problématique / Research problem.** Les Transformers dépassent les CNN/RNN sur de nombreuses tâches de signaux biomédicaux (NIR, ECG, PPG), mais leur coût (attention quadratique, poids en Mo, non-linéarités en virgule flottante) freine leur déploiement sur des dispositifs portables sous budget de batterie.
+
+*Transformers outperform CNNs/RNNs on many biomedical signal tasks, but their cost (quadratic attention, multi-MB weights, floating-point nonlinearities) hinders deployment on battery-powered wearables.*
+
+**Axes de recherche / Research axes**
+- **Quantification consciente du matériel** : INT8/INT4 en précision mixte, softmax / GELU / LayerNorm entiers (approximations polynomiales ou tabulées), distillation de connaissances.
+- **Architecture d'attention en flux** sur Artix-7 et Zynq : attention par tuiles, attention linéaire ou creuse, élagage de têtes, double tampon mémoire.
+- **Modèle analytique de performances** (latence, énergie, LUT/DSP/BRAM) pour l'exploration de l'espace de conception.
+- **Flot ouvert et vérifiable** PyTorch → Brevitas/ONNX → HLS → bitstream, avec vecteurs de test bit-exacts.
+- **Validation applicative** : estimation du glucose par spectroscopie proche infrarouge (SST-Transformer) et classification d'arythmies ECG.
+
+**Objectifs visés / Target metrics**
+
+| Métrique / Metric | Cible / Target |
+|---|---|
+| Perte de précision vs flottant | < 1 % |
+| Latence par fenêtre de signal | < 10 ms |
+| Puissance | < 500 mW |
+| Efficacité énergétique vs GPU embarqué | ≥ 5× (inférences/joule) |
+| Latence vs ARM Cortex-M7 | ≥ 10× plus faible |
+| Erreur du modèle analytique | < 10 % |
+
+**Plan de travail / Roadmap**
+1. **Mois 1–8** — Fondations : bibliographie, modèles de référence flottants, profilage.
+2. **Mois 9–18** — Quantification consciente du matériel (QAT, INT8/INT4, non-linéarités entières).
+3. **Mois 19–30** — Architecture FPGA en flux et exploration de conception (HLS).
+4. **Mois 31–36** — Prototype Zynq, validation SIL/PIL/HIL, mesures de puissance.
+5. **Mois 37–42** — Validation applicative, code ouvert, rédaction du manuscrit.
 
 ---
 
@@ -48,6 +98,7 @@ struct Houssem {
 
 | Période / Period | Rôle / Role | Entreprise / Company |
 |---|---|---|
+| Nov 2026 – Présent | **Doctorant — FPGA, Transformers quantifiés, IA médicale embarquée** *(PhD Candidate)* | LARA Lab, ENIT |
 | Fév–Août 2026 | **PFE — Maintenance Prédictive / PMSM Fault Diagnosis** | Actia Engineering Services |
 | Juin–Juil 2025 | **Stagiaire Recherche — Robotique & Vision** *(Research Intern)* | LARA Lab, ENIT |
 | Jan 2025 – Présent | **Formateur / Instructor** (C/C++, Python, Embarqué, RTOS, LaTeX, Git) | Z Training |
@@ -56,8 +107,17 @@ struct Houssem {
 | Fév–Avr 2024 | **Stagiaire Firmware — Gestionnaire d'erreurs FreeRTOS** *(Firmware Intern)* | Wattnow |
 | Juil 2023 | **Stagiaire Industriel — Maintenance GMAO** *(Industrial Intern — CMMS)* | SAFRAN Tunisie |
 
+### 🧠 Doctorant / PhD Candidate — LARA Lab, ENIT *(Nov 2026 – Présent / Present)*
+> Co-conception modèle–matériel pour l'IA médicale embarquée
+> *Model–hardware co-design for edge medical AI*
+
+- Quantification entière (INT8/INT4) de **Transformers** pour signaux biomédicaux (NIR, ECG) avec **Brevitas** et **PyTorch**
+- Noyaux **HLS** en flux (matmul systolique, attention par tuiles, softmax / LayerNorm entiers) pour **Artix-7** et **Zynq UltraScale+**
+- Flot reproductible **PyTorch → ONNX → HLS → bitstream** avec équivalence bit-exacte
+- Modèle analytique de performances et exploration multi-objectif (latence, énergie, ressources)
+
 ### 🔬 PFE — Actia Engineering Services *(Fév / Feb 2026 – Août / Aug 2026)*
-> Maintenance prédictive par ML appliqué aux signaux de fonctionnement PMSM  
+> Maintenance prédictive par ML appliqué aux signaux de fonctionnement PMSM
 > *ML-based predictive maintenance applied to PMSM operating signals*
 
 - **Détection de défauts ITSC** *(ITSC fault detection)* dans les moteurs PMSM triphasés par fusion courant + vibration
@@ -75,19 +135,19 @@ struct Houssem {
 - Coaching professionnel : optimisation LinkedIn, rédaction de CV *(professional development: LinkedIn optimization, CV writing)*
 
 ### 📡 Stagiaire IoT — DbSense *(Sep 2024 – Présent / Present)*
-- Solution de maintenance prédictive basée sur **l'analyse de données acoustiques** avec détection d'anomalies par ML  
+- Solution de maintenance prédictive basée sur **l'analyse de données acoustiques** avec détection d'anomalies par ML
   *Predictive maintenance via acoustic data analysis with ML anomaly detection*
 
 ### ☁️ Stagiaire IoT — C4I Tunisie *(Juil–Août 2024 / Jul–Aug 2024)*
-- Environnement lab IoT déployé sur **Azure IoT Hub** avec simulations temps réel et formation pratique dispensée à des étudiants et professionnels  
+- Environnement lab IoT déployé sur **Azure IoT Hub** avec simulations temps réel et formation pratique dispensée à des étudiants et professionnels
   *IoT lab environment on Azure IoT Hub with real-time data simulations and hands-on training delivery*
 
 ### ⚙️ Stagiaire Firmware — Wattnow *(Fév–Avr 2024 / Feb–Apr 2024)*
-- Module de gestion d'erreurs temps réel : **buffer circulaire + FreeRTOS** sur STM32 (UART/SPI), refactorisation machines à états (FSM)  
+- Module de gestion d'erreurs temps réel : **buffer circulaire + FreeRTOS** sur STM32 (UART/SPI), refactorisation machines à états (FSM)
   *Real-time error management module: circular buffer + FreeRTOS on STM32, FSM refactoring*
 
 ### 🏭 Stagiaire Industriel — SAFRAN Tunisie *(Juil 2023 / Jul 2023)*
-- Support technique en maintenance corrective et préventive, gestion des ordres de travail via **GMAO DimoMaint** *(CMMS)*  
+- Support technique en maintenance corrective et préventive, gestion des ordres de travail via **GMAO DimoMaint** *(CMMS)*
   *Technical support for corrective & preventive industrial maintenance, work orders via DimoMaint CMMS*
 
 ---
@@ -96,6 +156,7 @@ struct Houssem {
 
 | Diplôme / Degree | Établissement / Institution | Années / Years |
 |---|---|---|
+| **Doctorat en Génie Électrique** — Systèmes embarqués et IA *(PhD in Electrical Engineering — Embedded Systems and AI)* | **ENIT** — Laboratoire LARA, École Doctorale Sciences et Techniques de l'Ingénieur, Université Tunis El Manar | 2026 – Présent |
 | Diplôme d'Ingénieur — Génie Électrique, Spécialité **SMART** *(Systèmes Microélectroniques Avancés Reconfigurables Temps Réel / Advanced Reconfigurable Real-Time Microelectronic Systems)* + **Master M2 SSD** *(Signaux, Systèmes et Données / MSc. SSD — Signals, Systems and Data)* | **ENIT** — École Nationale d'Ingénieurs de Tunis *(National Engineering School of Tunis)* | 2022 – 2026 |
 | Classes Préparatoires MP *(Maths-Physique / Math-Physics Preparatory Classes)* | **IPEIN** — Nabeul | 2020 – 2022 |
 | Baccalauréat Mathématiques *(Mathematics Baccalaureate)* | Lycée Nahj El Menzah — Béni Khalled | 2020 |
@@ -121,7 +182,15 @@ struct Houssem {
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![BeagleBone](https://img.shields.io/badge/BeagleBone-black?style=for-the-badge&logoColor=white)
+
+### FPGA & Co-conception / FPGA & Co-design
 ![FPGA](https://img.shields.io/badge/FPGA-D13212?style=for-the-badge&logoColor=white)
+![Zynq](https://img.shields.io/badge/Zynq_SoC-ED1C24?style=for-the-badge&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-0F9D58?style=for-the-badge&logoColor=white)
+![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-5C2D91?style=for-the-badge&logoColor=white)
+![hls4ml](https://img.shields.io/badge/hls4ml-2C3E50?style=for-the-badge&logoColor=white)
+![FINN](https://img.shields.io/badge/FINN-1F6FEB?style=for-the-badge&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 ### OS & RTOS
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-003366?style=for-the-badge&logoColor=white)
@@ -129,8 +198,11 @@ struct Houssem {
 ![PREEMPT-RT](https://img.shields.io/badge/PREEMPT--RT-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### IA / ML / Traitement du Signal / AI · ML · DSP
+### IA / ML / DL / Transformers / Traitement du Signal / AI · ML · DL · DSP
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Brevitas](https://img.shields.io/badge/Brevitas-Quantization-6E40C9?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-Attention-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -151,6 +223,7 @@ struct Houssem {
 
 | Projet / Project | Technologies | Description |
 |---|---|---|
+| **Accélérateurs FPGA pour Transformers quantifiés (Thèse)** *(FPGA Accelerators for Quantized Transformers — PhD)* | PyTorch, Brevitas, ONNX, Vitis HLS, hls4ml, FINN, Artix-7, Zynq | Quantification INT8/INT4, attention en flux, softmax/GELU/LayerNorm entiers, flot bit-exact PyTorch → bitstream *(in progress)* |
 | **Diagnostic de Défauts PMSM (PFE)** *(PMSM Fault Diagnosis)* | Python, MATLAB, ML, NI cDAQ | Détection ITSC par fusion courant+vibration *(ITSC detection via current+vibration fusion)*, AdaBoost/GCN, Raspberry Pi |
 | **Modélisation & Simulation BEV** *(BEV Modelling & Simulation)* | MATLAB/Simulink, PMSM, FOC | Groupe motopropulseur complet *(full electric powertrain)*: FOC, freinage régénératif *(regenerative braking)*, BMS |
 | **Suivi de Trajectoire Drone** *(Drone Trajectory Tracking)* | ROS2, Gazebo, PX4, YOLO, Jetson Nano | Drone autonome avec détection d'objets embarquée *(embedded object detection)* — validé SITL & HITL |
@@ -204,16 +277,16 @@ struct Houssem {
 
 ## 🎯 Leadership & Engagement
 
-- **Président / President** — Club Génie Électrique ENIT *(Electrical Engineering Club)* *(Sep 2023 – Présent/Present)*  
+- **Président / President** — Club Génie Électrique ENIT *(Electrical Engineering Club)* *(Sep 2023 – Présent/Present)*
   Relancement de l'activité, ateliers techniques STM32/IoT/Arduino. *Relaunched club activity, organized STM32/IoT/Arduino technical workshops.*
 
-- **Responsable Base de Données / Database Manager** — IAESTE Tunisie *(Sep 2023 – Juin/Jun 2024)*  
+- **Responsable Base de Données / Database Manager** — IAESTE Tunisie *(Sep 2023 – Juin/Jun 2024)*
   Modernisation du système de gestion des stages, réduction du temps de traitement de 30%. *Modernized internship management system; reduced application processing time by 30%.*
 
-- **Formateur Gestion de Crise / Crisis Management Trainer** — Croissant-Rouge Tunisien *(Red Crescent)* *(Août/Aug 2022 – Présent/Present)*  
+- **Formateur Gestion de Crise / Crisis Management Trainer** — Croissant-Rouge Tunisien *(Red Crescent)* *(Août/Aug 2022 – Présent/Present)*
   Protocoles d'urgence dans 10+ délégations, coordination de 3 exercices nationaux. *Emergency protocols across 10+ regional delegations; 3 national simulation exercises.*
 
-- **Responsable Santé & Premiers Secours / Health & First Aid Officer** — Croissant-Rouge Tunisien *(Jun 2023 – Jan 2024)*  
+- **Responsable Santé & Premiers Secours / Health & First Aid Officer** — Croissant-Rouge Tunisien *(Jun 2023 – Jan 2024)*
   Formation de 150+ bénévoles, logistique de 5 campagnes de santé. *Trained 150+ volunteers in first aid; 5 community health campaigns.*
 
 ---
@@ -241,10 +314,10 @@ struct Houssem {
 
 <div align="center">
 
-*Ouvert aux collaborations en systèmes embarqués, IoT, IA embarquée et traitement du signal.*  
-*Open to collaboration on embedded systems, IoT, edge AI, and signal processing projects.*
+*Ouvert aux collaborations en systèmes embarqués, accélération FPGA, IoT, IA embarquée (ML/DL/Transformers) et traitement du signal.*
+*Open to collaboration on embedded systems, FPGA acceleration, IoT, edge AI (ML/DL/Transformers), and signal processing projects.*
 
-**📬 [houssemeddine.lahmar@etudiant-enit.utm.tn](mailto:houssemeddine.lahmar@etudiant-enit.utm.tn)**  
+**📬 [houssemeddine.lahmar@etudiant-enit.utm.tn](mailto:houssemeddine.lahmar@etudiant-enit.utm.tn)**
 **📬 [houssemeddine.lahmer@outlook.com](mailto:Houssemeddine.lahmer@outlook.com)**
 
 </div>
