@@ -127,7 +127,7 @@ struct Houssem {
   `Python / Keras (CNN1D)` → `export ONNX` → `quantification INT8 ou conservation FP32` → `ONNX Runtime` → `application C/C++ sous Linux embarqué`
   Variante INT8 : taille réduite d'environ 90 % par rapport au modèle Keras.
 - **Projet final sur carte** *(final on-board system)* : capteur de courant relié à la carte → code C/C++ de **traitement du signal** (acquisition, fenêtrage, normalisation Z-score) → passage dans le **modèle CNN1D** → résultat de diagnostic (sévérité du défaut ITSC) → **tests sur la maquette** *(test bench)*
-- Déploiement cible sur **Raspberry Pi 4/5** pour la maintenance conditionnelle *(condition-based maintenance)*
+- Déploiement sur **STM32MP157-DK2** (Cortex-A7, Linux embarqué) pour la maintenance conditionnelle *(condition-based maintenance)*
 
 ### 🤖 Stagiaire Recherche — LARA Lab, ENIT *(Juin–Juil 2025 / Jun–Jul 2025)*
 - Système de suivi de trajectoire pour drones mobiles : **ROS2, Gazebo, PX4 Autopilot**
