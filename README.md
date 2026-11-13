@@ -90,13 +90,6 @@ struct Houssem {
 | Latence vs ARM Cortex-M7 | ≥ 10× plus faible |
 | Erreur du modèle analytique | < 10 % |
 
-**Plan de travail / Roadmap**
-1. **Mois 1–8** — Fondations : bibliographie, modèles de référence flottants, profilage.
-2. **Mois 9–18** — Quantification consciente du matériel (QAT, INT8/INT4, non-linéarités entières).
-3. **Mois 19–30** — Architecture FPGA en flux et exploration de conception (HLS).
-4. **Mois 31–36** — Prototype Zynq, validation SIL/PIL/HIL, mesures de puissance.
-5. **Mois 37–42** — Validation applicative, code ouvert, rédaction du manuscrit.
-
 ---
 
 ## 💼 Expériences / Experience
@@ -291,17 +284,35 @@ struct Houssem {
 
 ## 🎯 Leadership & Engagement
 
+- **Représentant des Étudiants & Membre du Conseil Scientifique / Student Representative & Scientific Council Member** — ENIT *(Sep 2024 – Sep 2026)*
+  - Interface entre les étudiants et la direction (directeur, chefs de département, secrétaire général, enseignants) : recueil des besoins, argumentation et défense de propositions.
+  - Participation aux décisions stratégiques du Conseil Scientifique, recherche de compromis entre parties prenantes aux intérêts divergents.
+  - Contribution à l'évaluation de la vie universitaire et à l'amélioration des plans d'étude à partir des retours du terrain.
+  - Membre du **Comité Qualité de l'ENIT** : suivi de la qualité du service rendu et identification des axes d'amélioration.
+  - *Liaison between students and school management; contributed to Scientific Council strategic decisions, curriculum improvement, and the ENIT Quality Committee.*
+
 - **Président / President** — Club Génie Électrique ENIT *(Electrical Engineering Club)* *(Sep 2023 – Présent/Present)*
-  Relancement de l'activité, ateliers techniques STM32/IoT/Arduino. *Relaunched club activity, organized STM32/IoT/Arduino technical workshops.*
+  - Relancement du club et hausse de la participation étudiante.
+  - Ateliers techniques pratiques (STM32, IoT, Arduino).
+  - *Relaunched the club and increased student participation; organized hands-on STM32/IoT/Arduino workshops.*
 
 - **Responsable Base de Données / Database Manager** — IAESTE Tunisie *(Sep 2023 – Juin/Jun 2024)*
-  Modernisation du système de gestion des stages, réduction du temps de traitement de 30%. *Modernized internship management system; reduced application processing time by 30%.*
+  - Modernisation du système de gestion des stages internationaux.
+  - Développement d'outils d'analyse de données pour le conseil d'administration.
+  - Réduction de **30 %** du temps de traitement des candidatures.
+  - *Modernized the international internship management system; built data analysis tools for the board; cut application processing time by 30%.*
 
-- **Formateur Gestion de Crise / Crisis Management Trainer** — Croissant-Rouge Tunisien *(Red Crescent)* *(Août/Aug 2022 – Présent/Present)*
-  Protocoles d'urgence dans 10+ délégations, coordination de 3 exercices nationaux. *Emergency protocols across 10+ regional delegations; 3 national simulation exercises.*
+- **Responsable Santé & Secourisme / Health & First Aid Officer** — Croissant-Rouge Tunisien *(Red Crescent)*, Ben Khalled *(Jun 2023 – Jan 2024)*
+  - Formation de **150+** volontaires aux premiers secours.
+  - Pilotage de la logistique de **5** campagnes sanitaires communautaires.
+  - Hausse de **20 %** de l'engagement citoyen grâce à des ateliers de prévention.
+  - *Trained 150+ volunteers in first aid; led logistics for 5 community health campaigns; increased civic engagement by 20%.*
 
-- **Responsable Santé & Premiers Secours / Health & First Aid Officer** — Croissant-Rouge Tunisien *(Jun 2023 – Jan 2024)*
-  Formation de 150+ bénévoles, logistique de 5 campagnes de santé. *Trained 150+ volunteers in first aid; 5 community health campaigns.*
+- **Formateur en Gestion de Crises / Crisis Management Trainer** — Croissant-Rouge Tunisien *(Août/Aug 2022 – Présent/Present)*
+  - Déploiement de protocoles d'urgence dans **10+** délégations régionales.
+  - Conception de modules de formation adaptés aux risques locaux.
+  - Coordination de l'action inter-agences lors de **3** exercices nationaux de simulation.
+  - *Deployed emergency protocols across 10+ regional delegations; designed locally adapted training modules; coordinated inter-agency action in 3 national simulation exercises.*
 
 ---
 
