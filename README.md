@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-eddine-lahmer-681864203/)
 [![ENIT Mail](https://img.shields.io/badge/ENIT_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssemeddine.lahmar@etudiant-enit.utm.tn)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Houssemeddine.lahmer@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssemeddinelahmer4@gmail.com)
 [![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoussemLahmar)
 ![Profile Views](https://komarev.com/ghpvc/?username=HoussemLahmar&color=blueviolet&label=Profile+Views&style=for-the-badge)
 
@@ -43,7 +44,7 @@ struct Houssem {
     char *role   = "PhD Candidate | MSc. SSD | Embedded Firmware Engineering Enthusiast | Embedded & FPGA | IoT | ML/DL";
     char *motto  = "In embedded systems, timing is everything.";
     char *code[] = {"C", "C++", "Python", "Rust", "VHDL", "Assembly", "MATLAB"};
-    char *hw[]   = {"FPGA (Artix-7, Zynq)", "STM32", "ESP32", "Jetson Nano", "BeagleBone", "Raspberry Pi"};
+    char *hw[]   = {"FPGA (Artix-7, Zynq)", "STM32", "STM32MP157-DK2", "ESP32", "Jetson Nano", "BeagleBone", "Raspberry Pi"};
     char *rtos[] = {"FreeRTOS", "Linux PREEMPT-RT", "Embedded Linux"};
     char *ai[]   = {"PyTorch", "TensorFlow/Lite", "Transformers", "Quantization (Brevitas)", "TinyML", "OpenCV", "YOLO", "Scikit-learn"};
     char *fpga[] = {"Vivado", "Vitis HLS", "hls4ml", "FINN", "ONNX"};
@@ -127,6 +128,12 @@ struct Houssem {
 - **Détection de défauts ITSC** *(ITSC fault detection)* dans les moteurs PMSM triphasés par fusion courant + vibration
 - Exploitation du **dataset industriel KAIST** et banc d'essai expérimental (NI cDAQ, 100 kHz courant / 25,6 kHz vibration)
 - Extraction de caractéristiques statistiques, baseline **AdaBoost (SAMME)**, exploration du deep learning sur graphe **(ST-MGCN)**
+- Comparaison de **12 algorithmes ML** (régression logistique, SVM, KNN, CART, Random Forest, Extra Trees, AdaBoost, XGBoost, LightGBM, CatBoost, MLP) avec **F1-macro > 98,7 %** par moteur
+- **CNN1D résiduel** (Keras/TensorFlow) sur courants triphasés bruts (fenêtres 2500 × 3) pour l'estimation du **Fault Ratio**, suivie d'une classification *Nearest-Class* SC0–SC7
+- **Implémentation embarquée directe sur la carte STM32MP157-DK2** *(direct embedded implementation)* :
+  `Python / Keras (CNN1D)` → `export ONNX` → `quantification INT8 ou conservation FP32` → `ONNX Runtime` → `application C/C++ sous Linux embarqué`
+  Variante INT8 : taille réduite d'environ 90 % par rapport au modèle Keras.
+- **Projet final sur carte** *(final on-board system)* : capteur de courant relié à la carte → code C/C++ de **traitement du signal** (acquisition, fenêtrage, normalisation Z-score) → passage dans le **modèle CNN1D** → résultat de diagnostic (sévérité du défaut ITSC) → **tests sur la maquette** *(test bench)*
 - Déploiement cible sur **Raspberry Pi 4/5** pour la maintenance conditionnelle *(condition-based maintenance)*
 
 ### 🤖 Stagiaire Recherche — LARA Lab, ENIT *(Juin–Juil 2025 / Jun–Jul 2025)*
@@ -181,6 +188,7 @@ struct Houssem {
 
 ### Embarqué & Matériel / Embedded & Hardware
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![STM32MP157](https://img.shields.io/badge/STM32MP157--DK2-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -205,6 +213,8 @@ struct Houssem {
 ### IA / ML / DL / Transformers / Traitement du Signal / AI · ML · DL · DSP
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Brevitas](https://img.shields.io/badge/Brevitas-Quantization-6E40C9?style=for-the-badge&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-Attention-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -228,7 +238,7 @@ struct Houssem {
 | Projet / Project | Technologies | Description |
 |---|---|---|
 | **Accélérateurs FPGA pour Transformers quantifiés (Thèse)** *(FPGA Accelerators for Quantized Transformers — PhD)* | PyTorch, Brevitas, ONNX, Vitis HLS, hls4ml, FINN, Artix-7, Zynq | Quantification INT8/INT4, attention en flux, softmax/GELU/LayerNorm entiers, flot bit-exact PyTorch → bitstream *(in progress)* |
-| **Diagnostic de Défauts PMSM (PFE + Mémoire Master SSD)** *(PMSM Fault Diagnosis — PFE & M2 SSD thesis)* | Python, MATLAB, ML, NI cDAQ | Détection ITSC par fusion courant+vibration *(ITSC detection via current+vibration fusion)*, AdaBoost/GCN, Raspberry Pi |
+| **Diagnostic de Défauts PMSM (PFE + Mémoire Master SSD)** *(PMSM Fault Diagnosis — PFE & M2 SSD thesis)* | Python, Keras, ONNX, ONNX Runtime, C/C++, Embedded Linux, STM32MP157-DK2, MATLAB, NI cDAQ | Détection ITSC (ML + CNN1D), export ONNX FP32/INT8, inférence C/C++ sous Linux sur STM32MP157-DK2, chaîne capteur de courant → traitement du signal → modèle → diagnostic, testée sur maquette *(ITSC detection, on-board inference, validated on a test bench)* |
 | **Modélisation & Simulation BEV** *(BEV Modelling & Simulation)* | MATLAB/Simulink, PMSM, FOC | Groupe motopropulseur complet *(full electric powertrain)*: FOC, freinage régénératif *(regenerative braking)*, BMS |
 | **Suivi de Trajectoire Drone** *(Drone Trajectory Tracking)* | ROS2, Gazebo, PX4, YOLO, Jetson Nano | Drone autonome avec détection d'objets embarquée *(embedded object detection)* — validé SITL & HITL |
 
@@ -323,5 +333,6 @@ struct Houssem {
 
 **📬 [houssemeddine.lahmar@etudiant-enit.utm.tn](mailto:houssemeddine.lahmar@etudiant-enit.utm.tn)**
 **📬 [houssemeddine.lahmer@outlook.com](mailto:Houssemeddine.lahmer@outlook.com)**
+**📬 [houssemeddinelahmer4@gmail.com](mailto:houssemeddinelahmer4@gmail.com)**
 
 </div>
